@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💪 Member of the HackerYourFuture community ❤ ✌
+💪 Member of the HackYourFuture community ❤ ✌
 
 <!--
 **mahmood-ghaem/mahmood-ghaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
