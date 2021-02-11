@@ -1,4 +1,4 @@
-![Galaxy](https://mahmood-ghaem.github.io/The-Netherlands/images/galaxy.png)
+![Galaxy](https://mahmood-ghaem.github.io/The-Netherlands/images/galaxy.jpg)
 
 # Welcome
 
