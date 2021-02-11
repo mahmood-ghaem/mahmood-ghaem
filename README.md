@@ -2,10 +2,10 @@
 
 # Welcome
 
-## I'm a member of the HackYourFuture community ❤ 
+I'm a member of the HackYourFuture community ❤ 
 
 
-### Latest projects
+### Latest projects:
 
 [WeCoders.nl](https://wecoders.nl)
 
