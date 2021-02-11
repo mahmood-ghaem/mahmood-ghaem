@@ -3,6 +3,13 @@
 💪 Member of the HackYourFuture community ❤ ✌
 
 ![Galaxy](https://mahmood-ghaem.github.io/The-Netherlands/images/galaxy.jpg)
+
+### Latest projects
+
+[The Netherlands](https://mahmood-ghaem.github.io/The-Netherlands)
+[Digital Resume](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week1/resume.html)
+[Adyen Clone](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html)
+[Drones](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week2/Drones%20website/index.html)
 <!--
 **mahmood-ghaem/mahmood-ghaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
