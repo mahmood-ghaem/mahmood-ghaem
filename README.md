@@ -1,3 +1,7 @@
+table {
+    width:100%;
+}
+
 ![Galaxy](https://mahmood-ghaem.github.io/The-Netherlands/images/galaxy.jpg)
 
 # Welcome
