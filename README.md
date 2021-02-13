@@ -5,22 +5,17 @@
 I'm a member of the HackYourFuture community ❤ 
 
 
-First Header | Second Header
+### Latest projects | ### Nice Frontend code
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+[WeCoders.nl](https://wecoders.nl) | Content from cell 2
 
-### Latest projects:
+[The Netherlands](https://mahmood-ghaem.github.io/The-Netherlands) | Content from cell 2
 
-[WeCoders.nl](https://wecoders.nl)
+[Digital Resume](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week1/resume.html) | Content from cell 2
 
-[The Netherlands](https://mahmood-ghaem.github.io/The-Netherlands)
+[Adyen Clone](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html) | Content from cell 2
 
-[Digital Resume](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week1/resume.html)
-
-[Adyen Clone](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html)
-
-[Drones](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week2/Drones%20website/index.html)
+[Drones](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week2/Drones%20website/index.html) | Content from cell 2
 
 <!--
 **mahmood-ghaem/mahmood-ghaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
