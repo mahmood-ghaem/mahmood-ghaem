@@ -11,7 +11,7 @@ Latest projects | Nice Frontend code | Android Intermediate
 [Digital Resume](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week1/resume.html) | [Progress Steps](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/04-%20Progress%20Steps) | [Maps Clustering Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/5-Maps-Clustering-Demo)
 [Adyen Clone](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html) |  | [Expandable Animation RecyclerView](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/7-Expandable-Animation-RecyclerView)
 [Drones](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week2/Drones%20website/index.html) |  | [Custom Snackbar Message](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/8-Custom-Snackbar-Message)
- | | [NewsApp](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/6-NewsApp)
+ null | null | [NewsApp](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/6-NewsApp)
 
 <!--
 **mahmood-ghaem/mahmood-ghaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
