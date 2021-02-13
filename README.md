@@ -1,6 +1,8 @@
+<style>
 table {
     width:100%;
 }
+</style>
 
 ![Galaxy](https://mahmood-ghaem.github.io/The-Netherlands/images/galaxy.jpg)
 
