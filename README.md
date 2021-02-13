@@ -6,8 +6,8 @@ I'm a member of the HackYourFuture community ❤
 
 ### Quick view
 
-Latest projects | Frontend code | Android | Document
------------- | ------------- | ------------- | -------------  
+Latest projects | Frontend code                                        | Android       | Document
+--------------- | ---------------------------------------------------- | ------------- | -------------  
 [WeCoders.nl](https://wecoders.nl) | [Mega Menu](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/01-%20Mega%20Menu) | [Guess Cities](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/3-Guess-Cities) | [Android Studio Java Object Oriented 1](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1)
 [The Netherlands](https://mahmood-ghaem.github.io/The-Netherlands) | [Expanding Cards](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/03-%20Expanding%20Cards) | [Memorable Place Exercise](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/4-Memorable-Place-Exercise) | [Android Studio Java Object Oriented 2](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-2)
 [Digital Resume](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week1/resume.html) | [Progress Steps](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/04-%20Progress%20Steps) | [Maps Clustering Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/5-Maps-Clustering-Demo) | [JavaScrip Code Pieces](https://github.com/mahmood-ghaem/JavaScrip-CodePieces)
