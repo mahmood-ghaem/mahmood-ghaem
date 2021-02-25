@@ -5,8 +5,6 @@
 
 I'm a member of the HackYourFuture community ❤ 
 
-![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
-
 ### Quick view
 
 Latest projects | HTML CSS JavaScript                                       | Android       | Document
@@ -22,6 +20,8 @@ Latest projects | HTML CSS JavaScript                                       | An
 [ ]() | [ ]() | [Localization](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/12-Localization-Demo) | [ ]()
 [ ]() | [ ]() | [Photo Import](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/09-Photo-Import-Demo) | [ ]()
 [ ]() | [ ]() | [Map Calculate Area](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/08-Map-Calculate-Area) | [ ]()
+
+![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 <!--
 **mahmood-ghaem/mahmood-ghaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
