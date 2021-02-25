@@ -28,7 +28,7 @@ Latest projects | HTML CSS JavaScript                                       | An
 [ ]() | [ ]() | [Map Calculate Area](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/08-Map-Calculate-Area) | [ ]()
 
 
-
+[linkedin]:
 
 
 <!--
