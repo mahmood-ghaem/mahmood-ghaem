@@ -21,9 +21,9 @@ Latest projects | HTML CSS JavaScript                                       | An
 [ ]() | [ ]() | [Photo Import](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/09-Photo-Import-Demo) | [ ]()
 [ ]() | [ ]() | [Map Calculate Area](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/08-Map-Calculate-Area) | [ ]()
 
-<div align="center">Test</div>
+<div align="right">![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)</div>
 
-![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
+
 
 <!--
 **mahmood-ghaem/mahmood-ghaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
