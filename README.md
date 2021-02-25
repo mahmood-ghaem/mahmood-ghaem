@@ -27,7 +27,10 @@ Latest projects | HTML CSS JavaScript                                       | An
 [ ]() | [ ]() | [Photo Import](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/09-Photo-Import-Demo) | [ ]()
 [ ]() | [ ]() | [Map Calculate Area](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/08-Map-Calculate-Area) | [ ]()
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="images/linkedinlogo.png" />][https://www.linkedin.com/in/mahmood-ghaemmaghami]
+[<img align="left" alt="linkedin | LinkedIn" width="100px" src="images/linkedinlogo.png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/mahmood-ghaemmaghami
+
 
 <!--
 **mahmood-ghaem/mahmood-ghaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
