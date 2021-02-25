@@ -1,5 +1,5 @@
 
-![Galaxy](https://mahmood-ghaem.github.io/The-Netherlands/images/galaxy.jpg)
+![Galaxy](images/galaxy.jpg)
   
 # Welcome
 
