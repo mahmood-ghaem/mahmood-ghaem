@@ -21,7 +21,11 @@ Latest projects | HTML CSS JavaScript                                       | An
 [ ]() | [ ]() | [Photo Import](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/09-Photo-Import-Demo) | [ ]()
 [ ]() | [ ]() | [Map Calculate Area](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/08-Map-Calculate-Area) | [ ]()
 
-<div align="right">![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)</div>
+<div align="right">
+  
+![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
 
 
 
