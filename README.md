@@ -5,7 +5,7 @@
 
 <div align="right">
 
-![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=blue&style=flat-square&label=PROFILE+VIEWS+👁)
 
 </div>
 
