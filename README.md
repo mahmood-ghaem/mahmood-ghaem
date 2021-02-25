@@ -5,7 +5,7 @@
 
 I'm a member of the HackYourFuture community ❤ 
 
-![](https://komarev.com/ghpvc/?username=mahmood-ghaem)
+![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 ### Quick view
 
