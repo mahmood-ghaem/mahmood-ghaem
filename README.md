@@ -1,20 +1,12 @@
 
 ![Galaxy](https://mahmood-ghaem.github.io/The-Netherlands/images/galaxy.jpg)
-
-<div style="display: flex">
-  
-<div>
   
 #Welcome
-
-</div>
 
 <div align="right">
 
 ![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
-</div>
-    
 </div>
 
 I'm a member of the HackYourFuture community ❤ 
