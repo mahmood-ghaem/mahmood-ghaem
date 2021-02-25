@@ -5,7 +5,7 @@
 
 <div align="right">
 
-![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=blue&style=flat-square&label=👁)
+
 
 </div>
 
@@ -28,8 +28,10 @@ Latest projects | HTML CSS JavaScript                                       | An
 [ ]() | [ ]() | [Map Calculate Area](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/08-Map-Calculate-Area) | [ ]()
 
 <div align="right">
-  
+      
 [<img align="left" alt="linkedin | LinkedIn" width="80px" src="images/linkedin.png" />][linkedin]
+
+![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=blue&style=flat-square&label=👁)
 
 </div>
 
