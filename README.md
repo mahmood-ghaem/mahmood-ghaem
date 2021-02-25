@@ -31,9 +31,11 @@ Latest projects | HTML CSS JavaScript                                       | An
   
 [<img align="left" alt="linkedin | LinkedIn" width="80px" src="images/linkedin.png" />][linkedin]
 
+</div>
+
 [linkedin]: https://www.linkedin.com/in/mahmood-ghaemmaghami
 
-</div>
+
 <!--
 **mahmood-ghaem/mahmood-ghaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
