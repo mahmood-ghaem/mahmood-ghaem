@@ -29,11 +29,13 @@ Latest projects | HTML CSS JavaScript                                       | An
 
 <div align="right">
       
-[<img align="left" alt="linkedin | LinkedIn" width="60px" src="images/linkedin.png" />][https://www.linkedin.com/in/mahmood-ghaemmaghami]
+[<img align="left" alt="linkedin | LinkedIn" width="60px" src="images/linkedin.png" />][linkedin]
 
 ![](https://komarev.com/ghpvc/?username=mahmood-ghaem&color=blue&style=flat-square&label=👁)
 
 </div>
+
+[linkedin]: https://www.linkedin.com/in/mahmood-ghaemmaghami
 
 <!--
 **mahmood-ghaem/mahmood-ghaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
