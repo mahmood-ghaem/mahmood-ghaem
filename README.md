@@ -36,23 +36,23 @@ I'm a member of the HackYourFuture community ❤
   <tr>
     <td>
       <ul>
-        <li>[Other hightights](https://github.com/mahmood-ghaem/Highlight)</li>
-        <li>[Android Studio Java Object Oriented 1](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1)</li>
-        <li>[Android Studio Java Object Oriented 2](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-2)</li>
-        <li>[JavaScrip Code Pieces](https://github.com/mahmood-ghaem/JavaScrip-CodePieces)</li>
-        <li>[WeCoders.nl](https://wecoders.nl)</li>
-        <li>[The Netherlands](https://mahmood-ghaem.github.io/The-Netherlands)</li>
-        <li>[Adyen Clone](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html)</li>
+        <li><a href="https://github.com/mahmood-ghaem/Highlight">Other hightights</a></li>
+        <li><a href="https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1">Android Studio Java Object Oriented 1</a></li>
+        <li><a href="https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-2">Android Studio Java Object Oriented 2</a></li>
+        <li><a href="https://github.com/mahmood-ghaem/JavaScrip-CodePieces">JavaScrip Code Pieces</a></li>
+        <li><a href="https://wecoders.nl">WeCoders.nl</a></li>
+        <li><a href="https://mahmood-ghaem.github.io/The-Netherlands">The Netherlands</a></li>
+        <li><a href="https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html">Adyen Clone</a></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>[IR-Bazar.com](https://ir-bazar.com) </li>
-        <li>[JavaScript Quiz](https://mahmood-ghaem.github.io/browser-quiz/index.html)</li>
-        <li>[Predict Nationality](https://mahmood-ghaem.github.io/API-JavaScript-Project/index.html)</li>
-        <li>[Node.js Blog](https://hyf-blog.herokuapp.com)</li>
-        <li>[De-Medewerker.nl](https://de-medewerker.wecoders.nl)</li>
-        <li>[GitHub API React.js](https://github-react-project.herokuapp.com)</li>
+        <li><a href="https://ir-bazar.com">IR-Bazar.com</a></li>
+        <li><a href="https://mahmood-ghaem.github.io/browser-quiz/index.html">JavaScript Quiz</a></li>
+        <li><a href="https://mahmood-ghaem.github.io/API-JavaScript-Project/index.html">Predict Nationality</a></li>
+        <li><a href="https://hyf-blog.herokuapp.com">Node.js Blog</a></li>
+        <li><a href="https://de-medewerker.wecoders.nl">De-Medewerker.nl</a></li>
+        <li><a href="https://github-react-project.herokuapp.com">GitHub API React.js</a></li>
         <li></li>
       </ul>
     </td>
