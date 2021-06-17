@@ -33,11 +33,6 @@ I'm a member of the HackYourFuture community ❤
 </table>
 -->
 <div align="center">
-  <div style="display: flex; align-items: flex-start; border-radius: 5px; border:1px solid #ccc;">
-    hi
-  </div>
-</div>
-
 <table>
   <tr>
     <td>
@@ -64,6 +59,9 @@ I'm a member of the HackYourFuture community ❤
     </td>
   </tr>
 </table>  
+</div>
+
+
 
 <div align="right">
       
