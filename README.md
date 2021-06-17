@@ -32,6 +32,7 @@ I'm a member of the HackYourFuture community ❤
   </tr>
 </table>
 -->
+<div class="js-pinned-items-reorder-form">
 <h2 class="f4 mb-2 text-normal">Quick view</h2>
 <ol class="d-flex flex-wrap gutter-condensed js-pinned-items-reorder-list list-style-none mb-4">
   <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
@@ -57,6 +58,7 @@ I'm a member of the HackYourFuture community ❤
       </ul>
   </li> 
 </ol>
+</div>
 
 <div align="right">
       
