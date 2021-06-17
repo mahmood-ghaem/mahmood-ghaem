@@ -32,10 +32,9 @@ I'm a member of the HackYourFuture community ❤
   </tr>
 </table>
 -->
-<div class="js-pinned-items-reorder-form">
-<h2 class="f4 mb-2 text-normal">Quick view</h2>
-<ol class="d-flex flex-wrap gutter-condensed js-pinned-items-reorder-list list-style-none mb-4">
-  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
+<table>
+  <tr>
+    <td>
     <ul>
         <li><a href="https://github.com/mahmood-ghaem/Highlight">Other hightights</a></li>
         <li><a href="https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1">Android Studio Java Object Oriented 1</a></li>
@@ -45,8 +44,8 @@ I'm a member of the HackYourFuture community ❤
         <li><a href="https://mahmood-ghaem.github.io/The-Netherlands">The Netherlands</a></li>
         <li><a href="https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html">Adyen Clone</a></li>
       </ul>
-  </li>
-  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
+    </td>
+    <td>
     <ul>
         <li><a href="https://ir-bazar.com">IR-Bazar.com</a></li>
         <li><a href="https://mahmood-ghaem.github.io/browser-quiz/index.html">JavaScript Quiz</a></li>
@@ -55,10 +54,10 @@ I'm a member of the HackYourFuture community ❤
         <li><a href="https://de-medewerker.wecoders.nl">De-Medewerker.nl</a></li>
         <li><a href="https://github-react-project.herokuapp.com">GitHub API React.js</a></li>
         <li></li>
-      </ul>
-  </li> 
-</ol>
-</div>
+    </ul>
+    </td>
+  </tr>
+</table>  
 
 <div align="right">
       
