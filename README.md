@@ -13,6 +13,25 @@ I'm a member of the HackYourFuture community ❤
 
 ### Quick view
 
+<table>
+  <tr>
+    <td>
+      <img src='./assets/Mahmood.jpg' height="150px" width="150px" alt='Avatar of Mahmood' />
+    </td>
+    <td>
+      <h3 display="inline">Mahmood</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/HackYourFuture/class31/issues?q=assignee%3Amahmood-ghaem">My assigned tickets</a>
+        </li>
+        <li>
+          <a href="https://github.com/mahmood-ghaem">My github</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 [Android Studio Java Object Oriented 1](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1)
 [Android Studio Java Object Oriented 2](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-2)
 [JavaScrip Code Pieces](https://github.com/mahmood-ghaem/JavaScrip-CodePieces)
