@@ -13,20 +13,18 @@ I'm a member of the HackYourFuture community ❤
 
 ### Quick view
 
-Latest projects | HTML CSS JavaScript                                       | Android       | Document
---------------- | ---------------------------------------------------- | ------------- | -------------  
-[WeCoders.nl](https://wecoders.nl) | [Mega Menu](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/01-%20Mega%20Menu) | [Guess Cities](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/3-Guess-Cities) | [Android Studio Java Object Oriented 1](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1)
-[The Netherlands](https://mahmood-ghaem.github.io/The-Netherlands) | [Expanding Cards](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/03-%20Expanding%20Cards) | [Memorable Place Exercise](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/4-Memorable-Place-Exercise) | [Android Studio Java Object Oriented 2](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-2)
-[Digital Resume](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week1/resume.html) | [Progress Steps](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/04-%20Progress%20Steps) | [Maps Clustering Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/5-Maps-Clustering-Demo) | [JavaScrip Code Pieces](https://github.com/mahmood-ghaem/JavaScrip-CodePieces)
-[Adyen Clone](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html) | [Rotating Navigation](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/05-%20Rotating%20Navigation/) | [Expandable Animation RecyclerView](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/7-Expandable-Animation-RecyclerView) | [JavaScript Array Methode](https://github.com/mahmood-ghaem/JavaScrip-CodePieces/blob/master/Useful%20documents/JavaScript%20Array%20Methods.pdf) | [ ]()
-[Drones](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week2/Drones%20website/index.html) | [Hidden Search Widget](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/06-%20Hidden%20Search%20Widget/) | [Custom Snackbar Message](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/8-Custom-Snackbar-Message) | [ ]()
-[IR-Bazar.com](https://ir-bazar.com) | [Event Handlers](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/07-%20Event%20Handlers/index.html) | [NewsApp](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/6-NewsApp) | [ ]()
-[JavaScript Quiz](https://mahmood-ghaem.github.io/browser-quiz/index.html) | [Blurry Loading](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/08-%20Blurry%20Loading/) | [XO Game](https://github.com/mahmood-ghaem/XO_Game_Android_Java) | [ ]()
-[Predict Nationality](https://mahmood-ghaem.github.io/API-JavaScript-Project/index.html) | [Scroll Animation](https://mahmood-ghaem.github.io/HTML-CSS-TipsAndTricks/09-%20Scroll%20Animation/) | [Android Animation](https://github.com/mahmood-ghaem/Android_Animation) | [ ]()
-[Node.js Express App](https://splashy-candy-skirt.glitch.me) | [ ]() | [Localization](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/12-Localization-Demo) | [ ]()
-[Node.js Blog](https://hyf-blog.herokuapp.com) | [ ]() | [Photo Import](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/09-Photo-Import-Demo) | [ ]()
-[De-Medewerker.nl](https://de-medewerker.wecoders.nl) | [ ]() | [Map Calculate Area](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/08-Map-Calculate-Area) | [ ]()
-[GitHub API React.js](https://github-react-project.herokuapp.com) | [ ]() | [ ]() | [ ]()
+[Android Studio Java Object Oriented 1](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1)
+[Android Studio Java Object Oriented 2](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-2)
+[JavaScrip Code Pieces](https://github.com/mahmood-ghaem/JavaScrip-CodePieces)
+[WeCoders.nl](https://wecoders.nl)
+[The Netherlands](https://mahmood-ghaem.github.io/The-Netherlands)
+[Adyen Clone](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html)
+[IR-Bazar.com](https://ir-bazar.com) 
+[JavaScript Quiz](https://mahmood-ghaem.github.io/browser-quiz/index.html)
+[Predict Nationality](https://mahmood-ghaem.github.io/API-JavaScript-Project/index.html)
+[Node.js Blog](https://hyf-blog.herokuapp.com)
+[De-Medewerker.nl](https://de-medewerker.wecoders.nl)
+[GitHub API React.js](https://github-react-project.herokuapp.com)
 
 <div align="right">
       
