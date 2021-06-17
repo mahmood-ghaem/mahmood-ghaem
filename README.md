@@ -12,7 +12,7 @@
 I'm a member of the HackYourFuture community ❤ 
 
 ### Quick view
-
+<!--
 <table>
   <tr>
     <td>
@@ -31,19 +31,20 @@ I'm a member of the HackYourFuture community ❤
     </td>
   </tr>
 </table>
-
-[Android Studio Java Object Oriented 1](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1)
-[Android Studio Java Object Oriented 2](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-2)
-[JavaScrip Code Pieces](https://github.com/mahmood-ghaem/JavaScrip-CodePieces)
-[WeCoders.nl](https://wecoders.nl)
-[The Netherlands](https://mahmood-ghaem.github.io/The-Netherlands)
-[Adyen Clone](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html)
-[IR-Bazar.com](https://ir-bazar.com) 
-[JavaScript Quiz](https://mahmood-ghaem.github.io/browser-quiz/index.html)
-[Predict Nationality](https://mahmood-ghaem.github.io/API-JavaScript-Project/index.html)
-[Node.js Blog](https://hyf-blog.herokuapp.com)
-[De-Medewerker.nl](https://de-medewerker.wecoders.nl)
-[GitHub API React.js](https://github-react-project.herokuapp.com)
+-->
+- [Android Studio Java Object Oriented 1](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1)
+- [Android Studio Java Object Oriented 2](https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-2)
+- [JavaScrip Code Pieces](https://github.com/mahmood-ghaem/JavaScrip-CodePieces)
+- [WeCoders.nl](https://wecoders.nl)
+- [The Netherlands](https://mahmood-ghaem.github.io/The-Netherlands)
+- [Adyen Clone](https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html)
+- [IR-Bazar.com](https://ir-bazar.com) 
+- [JavaScript Quiz](https://mahmood-ghaem.github.io/browser-quiz/index.html)
+- [Predict Nationality](https://mahmood-ghaem.github.io/API-JavaScript-Project/index.html)
+- [Node.js Blog](https://hyf-blog.herokuapp.com)
+- [De-Medewerker.nl](https://de-medewerker.wecoders.nl)
+- [GitHub API React.js](https://github-react-project.herokuapp.com)
+- [Other hightights](https://github.com/mahmood-ghaem/Highlight)
 
 <div align="right">
       
