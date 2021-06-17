@@ -54,7 +54,6 @@ I'm a member of the HackYourFuture community ❤
         <li><a href="https://hyf-blog.herokuapp.com">Node.js Blog</a></li>
         <li><a href="https://de-medewerker.wecoders.nl">De-Medewerker.nl</a></li>
         <li><a href="https://github-react-project.herokuapp.com">GitHub API React.js</a></li>
-        <li></li>
     </ul>
     </td>
   </tr>
