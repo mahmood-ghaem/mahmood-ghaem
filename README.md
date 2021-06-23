@@ -13,7 +13,7 @@ I'm a member of the HackYourFuture community ❤
 
 [Task History](https://github.com/mahmood-ghaem/Everyday-Thoughts)
 
-### Quick view
+<h3  align="right">Quick view</h3>
 <!--
 <table>
   <tr>
