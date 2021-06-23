@@ -11,6 +11,8 @@
 
 I'm a member of the HackYourFuture community ❤ 
 
+[Task History](https://github.com/mahmood-ghaem/Everyday-Thoughts)
+
 ### Quick view
 <!--
 <table>
