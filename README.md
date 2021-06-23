@@ -45,7 +45,6 @@ I'm a member of the HackYourFuture community ❤
         <li><a href="https://wecoders.nl" target="_blank">WeCoders.nl</a></li>
         <li><a href="https://ir-bazar.com" target="_blank">IR-Bazar.com</a></li>
         <li><a href="https://mahmood-ghaem.github.io/The-Netherlands" target="_blank">The Netherlands</a></li>
-        <li><a href="https://github.com/mahmood-ghaem/JavaScrip-CodePieces" target="_blank">JavaScrip Code Pieces</a></li>
       </ul>
     </td>
     <td>
