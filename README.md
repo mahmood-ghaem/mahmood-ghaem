@@ -1,5 +1,5 @@
 
-![Galaxy](images/galaxy.jpg)
+![Galaxy](images/galaxy.png)
   
 # Welcome
 
