@@ -52,6 +52,9 @@ I'm a member of the HackYourFuture community ❤
     </ul>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">Some of the above links were uploaded in free hosting, Please be patient with loading.</td
+  </tr>
 </table>  
 </div>
 
