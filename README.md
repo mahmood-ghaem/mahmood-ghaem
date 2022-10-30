@@ -82,14 +82,13 @@
     <td>
     <ul>
         <li><a href="https://hyf-blog.herokuapp.com" target="_blank">Node.js Blog</a></li>
-        <li><a href="https://de-medewerker.wecoders.nl" target="_blank">De-Medewerker.nl</a></li>
+        <li><a href="https://de-medewerker.nl" target="_blank">De-Medewerker.nl</a></li>
         <li><a href="https://github-react-project.herokuapp.com" target="_blank">GitHub API React.js</a></li>
         <li><a href="https://www.durawonen.nl" target="_blank">WordPress PlugIn</a></li>
         <li><a href="https://github.com/mahmood-ghaem/Everyday-Thoughts/blob/main/UnitOfWork.md" target="_blank">Unit Of Work Repository Pattern</a></li>
         <li><a href="https://qadrit.nl" target="_blank">QadrIT.nl</a></li>
-        <li><a href="https://demo.de-medewerker.nl" target="_blank">Job Candidate CRM</a></li>
+        <li><a href="https://testcrm.qadrit.nl" target="_blank">Job Candidate CRM</a></li>
         <li><a href="https://demo.qadrit.nl" target="_blank">Demo WordPress WebShop</a></li>
-        <li></li>
     </ul>
     </td>
   </tr>
