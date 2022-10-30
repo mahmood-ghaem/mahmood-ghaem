@@ -72,7 +72,7 @@
         <li><a href="https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-1" target="_blank">Android Studio Java Object Oriented 1</a></li>
         <li><a href="https://github.com/mahmood-ghaem/AndroidStudioOOP/wiki/Android-Studio-Java-Object-Oriented-Section-2" target="_blank">Android Studio Java Object Oriented 2</a></li>
         <li><a href="https://wecoders.nl" target="_blank">WeCoders.nl</a></li>
-        <li><a href="https://ir-bazar.com" target="_blank">IR-Bazar.com</a></li>
+        <li><a href="https://iranads.wecoders.nl" target="_blank">Advertisment web application</a></li>
         <li><a href="https://mahmood-ghaem.github.io/The-Netherlands" target="_blank">The Netherlands</a></li>
         <li><a href="https://mahmood-ghaem.github.io/HYF-Module-HTMLCSSGIT/week3/Adyen-clone/index.html" target="_blank">Adyen Clone</a></li>
         <li><a href="https://mahmood-ghaem.github.io/browser-quiz/index.html" target="_blank">JavaScript Quiz</a></li>
@@ -89,6 +89,7 @@
         <li><a href="https://qadrit.nl" target="_blank">QadrIT.nl</a></li>
         <li><a href="https://testcrm.qadrit.nl" target="_blank">Job Candidate CRM</a></li>
         <li><a href="https://demo.qadrit.nl" target="_blank">Demo WordPress WebShop</a></li>
+        <li><a href="https://ir-bazar.com" target="_blank">Beauty Academi</a></li>
     </ul>
     </td>
   </tr>
